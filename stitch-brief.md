@@ -252,3 +252,44 @@ Phase A/B 两阶段信息收集（引导用户表达需求）
 - 不需要多页面路由、CMS、用户系统
 - 不需要花哨动画（淡入即可）
 - 不需要夜间模式切换（已经是深色主题）
+
+---
+
+## 附录：图片 GitHub Raw URL 对照表
+
+所有图片托管在 GitHub，使用以下 raw URL。文档中所有 `所有图片/` 下的本地路径均应替换为对应的 URL：
+
+| 文档中的本地路径 | GitHub Raw URL |
+|------|------|
+| `所有图片/系统匹配/1-输入图.jpg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E7%B3%BB%E7%BB%9F%E5%8C%B9%E9%85%8D/1-%E8%BE%93%E5%85%A5%E5%9B%BE.jpg` |
+| `所有图片/系统匹配/1-生成图.jpg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E7%B3%BB%E7%BB%9F%E5%8C%B9%E9%85%8D/1-%E7%94%9F%E6%88%90%E5%9B%BE.jpg` |
+| `所有图片/系统匹配/6-输入图.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E7%B3%BB%E7%BB%9F%E5%8C%B9%E9%85%8D/6-%E8%BE%93%E5%85%A5%E5%9B%BE.png` |
+| `所有图片/系统匹配/6-生成图.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E7%B3%BB%E7%BB%9F%E5%8C%B9%E9%85%8D/6-%E7%94%9F%E6%88%90%E5%9B%BE.png` |
+| `所有图片/风格迁移/模型截图.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB/%E6%A8%A1%E5%9E%8B%E6%88%AA%E5%9B%BE.png` |
+| `所有图片/风格迁移/参考图.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB/%E5%8F%82%E8%80%83%E5%9B%BE.JPG` |
+| `所有图片/风格迁移/生成图.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB/%E7%94%9F%E6%88%90%E5%9B%BE.png` |
+| `所有图片/个性化定制/2-输入图.jpg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E4%B8%AA%E6%80%A7%E5%8C%96%E5%AE%9A%E5%88%B6/2-%E8%BE%93%E5%85%A5%E5%9B%BE.jpg` |
+| `所有图片/个性化定制/2-生成图.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E4%B8%AA%E6%80%A7%E5%8C%96%E5%AE%9A%E5%88%B6/2-%E7%94%9F%E6%88%90%E5%9B%BE.png` |
+| `所有图片/个性化定制/3-输入图.jpeg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E4%B8%AA%E6%80%A7%E5%8C%96%E5%AE%9A%E5%88%B6/3-%E8%BE%93%E5%85%A5%E5%9B%BE.jpeg` |
+| `所有图片/个性化定制/3-生成图.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E4%B8%AA%E6%80%A7%E5%8C%96%E5%AE%9A%E5%88%B6/3-%E7%94%9F%E6%88%90%E5%9B%BE.png` |
+| `所有图片/迭代case/4-输入图.jpg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E8%BF%AD%E4%BB%A3case/4-%E8%BE%93%E5%85%A5%E5%9B%BE.jpg` |
+| `所有图片/迭代case/4-badcase.png` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E8%BF%AD%E4%BB%A3case/4-badcase.png` |
+| `所有图片/迭代case/4-goodcase.jpg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E8%BF%AD%E4%BB%A3case/4-goodcase.jpg` |
+| `所有图片/mir作品/IMG_3960 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3960%202.JPG` |
+| `所有图片/mir作品/IMG_3961 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3961%202.JPG` |
+| `所有图片/mir作品/IMG_3962 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3962%202.JPG` |
+| `所有图片/mir作品/IMG_3963 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3963%202.JPG` |
+| `所有图片/mir作品/IMG_3964 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3964%202.JPG` |
+| `所有图片/mir作品/IMG_3965 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3965%202.JPG` |
+| `所有图片/mir作品/IMG_3966 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3966%202.JPG` |
+| `所有图片/mir作品/IMG_3967 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3967%202.JPG` |
+| `所有图片/mir作品/IMG_3968 2.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/mir%E4%BD%9C%E5%93%81/IMG_3968%202.JPG` |
+| `所有图片/更多skill成果/IMG_3975.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/IMG_3975.JPG` |
+| `所有图片/更多skill成果/IMG_3976.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/IMG_3976.JPG` |
+| `所有图片/更多skill成果/IMG_3977.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/IMG_3977.JPG` |
+| `所有图片/更多skill成果/IMG_3978.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/IMG_3978.JPG` |
+| `所有图片/更多skill成果/IMG_3979.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/IMG_3979.JPG` |
+| `所有图片/更多skill成果/IMG_3980.JPG` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/IMG_3980.JPG` |
+| `所有图片/更多skill成果/mir_result_1778833714.jpg` | `https://raw.githubusercontent.com/HuGuanyu0103/mir/main/%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87/%E6%9B%B4%E5%A4%9Askill%E6%88%90%E6%9E%9C/mir_result_1778833714.jpg` |
+
+用法：stitch 生成网站时，将所有文档正文中的本地路径直接替换为上表中对应的 raw URL。
